@@ -1,0 +1,7 @@
+这是作为老小白在github上的第一篇文章。2020/08/28
+解决如何在linux（unbuntu）系统下，用vscode来实现python代码的编写以及调试
+首先需要新建一个文件夹,注意这个文件夹不是在vscode中新建的，而是你提前在任意位置建好了的。
+其次点击vscode左上角第一个图标，新建一个helloworld.py的文件
+输入print('hello world')   
+然后回车
+鼠标选择HelloWorld.py文件或者在内容编辑器中右键，选择【在终端中运行Python文件】，就可以运行代码了。
